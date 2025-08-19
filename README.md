@@ -5,7 +5,7 @@ Proyecto para analizar la evasión (churn) de clientes de Telecom X. El objetivo
 
 Contenido del repositorio
 
-notebook.ipynb (o instrucciones para Google Colab): Notebook con 4 bloques independientes:
+telecomx_latam.ipynb (o instrucciones para Google Colab): Notebook con 4 bloques independientes:
 
 Extracción — carga de datos desde la API.
 
