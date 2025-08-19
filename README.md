@@ -15,4 +15,4 @@ Carga y Análisis (EDA) — estadísticas, gráficas y análisis básico.
 
 Informe Final — resumen de hallazgos y recomendaciones simples.
 
-README.md — este documento.
+
